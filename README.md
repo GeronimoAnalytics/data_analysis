@@ -9,6 +9,7 @@ A collection of fun and educational data analysis projects.
 | Project | Description |
 |---------|-------------|
 | [Spurious Correlation Analysis](python/spurious_correlation_analysis/) | Exploring the fake correlation between pool drownings and Nicolas Cage films |
+| [Divorce vs. Margarine](python/divorce_vs_margarine/) | The near-perfect (r=0.99) spurious correlation between Maine divorces and margarine consumption |
 
 ## Getting Started
 
