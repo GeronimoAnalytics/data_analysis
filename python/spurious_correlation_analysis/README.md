@@ -1,3 +1,5 @@
+![Header](header.png)
+
 # Spurious Correlation Analysis: Pool Drownings vs. Nicolas Cage Films
 
 A data analysis exploring the infamous spurious correlation between swimming pool drownings in the US and the number of Nicolas Cage film appearances (2000–2009).
