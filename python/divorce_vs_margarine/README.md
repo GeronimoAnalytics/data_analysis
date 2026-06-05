@@ -1,3 +1,5 @@
+![Header](header.png)
+
 # Spurious Correlation: Divorce Rate in Maine vs. Margarine Consumption
 
 An analysis of the near-perfect spurious correlation between the divorce rate in Maine and per capita margarine consumption in the US (2000–2009), inspired by [Tyler Vigen's Spurious Correlations](https://tylervigen.com/spurious-correlations).
