@@ -10,6 +10,7 @@ A collection of fun and educational data analysis projects.
 |---------|-------------|
 | [Spurious Correlation Analysis](python/spurious_correlation_analysis/) | Exploring the fake correlation between pool drownings and Nicolas Cage films |
 | [Divorce vs. Margarine](python/divorce_vs_margarine/) | The near-perfect (r=0.99) spurious correlation between Maine divorces and margarine consumption |
+| [Chocolate vs. Nobel Prizes](python/chocolate_vs_nobel/) | Does eating chocolate make countries win Nobel Prizes? (r=0.88) |
 
 ## Getting Started
 
